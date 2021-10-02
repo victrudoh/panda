@@ -28,6 +28,29 @@
   color: #61dafb;
 }
 
+.title {
+  height: 165px;
+  width: 381.25px;
+}
+
+.titleText {
+  font-family: cursive;
+}
+
+.btn {
+  background-color: #2e8d71d7;
+  border: 1px solid olivedrab;
+  border-radius: 10px;
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 3px 8px;
+}
+
+.btn:hover {
+  background-color: #42be99d7;
+  color: black;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
